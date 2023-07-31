@@ -41,7 +41,7 @@ Figure: Distribution of Min, Max and Modal Price in Tomato Dataset
 
 The prediction vs Actual can be analysed from the bellow graph
 
-![tomato_predictions](https://github.com/Kaushik-yh/tomato_price_prediction/assets/138836652/547dbf97-c687-440a-b963-c3f905b89a5b)
+![Tomato_7a_PredVsAct](https://github.com/Kaushik-yh/tomato_price_prediction/assets/138836652/d58100fb-d5ed-4146-8521-82ef37c9adf8)
 Figure: Predicted vs Actual for time t+1
 
 ![Tomato_7a_Pred_t1_To_t5](https://github.com/Kaushik-yh/tomato_price_prediction/assets/138836652/89227d81-df5e-4efd-8616-056056d9de31)
